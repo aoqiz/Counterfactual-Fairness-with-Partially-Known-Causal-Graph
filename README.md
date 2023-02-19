@@ -14,4 +14,4 @@ Examples and more explanations on commands in run.sh:
 
 To reproduce results on real datasets,
         run `Rscript main_RealData_RMSE_and_Unfairness.R` to obtain Table 2;
-        run `Rscript main_RealData_Density_plots.R` to obtain Figure 9.
+        run `Rscript main_RealData_Density_plots.R` to obtain Figure 3.
