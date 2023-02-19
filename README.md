@@ -1,4 +1,4 @@
-# Counterfactual-Fairness-with-Partially-Known-Causal-Graph
+# Counterfactual Fairness with Partially Known Causal Graph
 
 This is the reproduction of the paper https://arxiv.org/abs/2205.13972.
 
